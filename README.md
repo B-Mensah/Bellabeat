@@ -1,4 +1,5 @@
-Bellabeat Case study
+Bellabeat
+
 
 In this case study, I am working as a junior data analyst for Bellabeat, a high-tech manufacturer of health-focused products for women.
 
